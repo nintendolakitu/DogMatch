@@ -1,0 +1,96 @@
+English Bulldog,Medium,Medium,Low,Mid,Medium.
+Boston Terrier,Small,Low,High,Mid,High.
+French Bulldog,Medium,Medium,Low,Mid,Medium.
+Australian Shepherd,Medium,High,High,Mid,High.
+Saint Bernard,Large,Medium,Medium,Cold,Medium.
+American Bulldog,Medium,Low,High,Mid,High.
+Basset Hound,Medium,Medium,Low,Mid,Low.
+Beagle,Small,Low,Medium,Mid,High.
+Bernese Mountain Dog,Large,High,High,Cold,High.
+Bloodhound,Large,Medium,Medium,Mid,Medium.
+Chihuahua,Small,Low,Low,Hot,Medium.
+Cocker Spaniel,Small,High,Medium,Mid,High.
+Collie,Medium,Medium,Medium,Mid,Medium.
+Dachshund,Small,Medium,Medium,Mid,Medium.
+Dalmatian,Large,Medium,High,Hot,High.
+Golden Retriever,Large,Medium,High,Mid,High.
+Great Dane,Large,Low,High,Hot,High.
+Greyhound,Large,Low,High,Hot,High.
+Italian Greyhound,Small,Low,Medium,Hot,Medium.
+Havanese,Small,Medium,Medium,Mid,High.
+Keeshond,Medium,Medium,Medium,Cold,High.
+Labrador Retriever,Large,Medium,High,Mid,High.
+Maltese,Small,High,Medium,Mid,Low.
+Mastiff,Large,Low,Medium,Mid,Medium.
+Miniature American Shepherd,Small,High,High,Mid,High.
+Miniature Schnauzer,Small,High,Medium,Mid,Medium.
+Miniature Pinscher,Small,Low,Medium,Mid,Medium.
+Pomeranian,Small,Medium,Medium,Mid,Low.
+Norfolk Terrier,Small,Medium,Medium,Mid,High.
+Norwich Terrier,Small,Medium,High,Mid,High.
+Papillon,Small,Medium,Medium,Mid,High.
+Pembroke Welsh Corgi,Small,Medium,Medium,Mid,High.
+Pekingese,Small,Medium,Low,Cold,Low.
+Pointer,Medium,Low,High,Mid,Medium.
+Rat Terrier,Small,Medium,Medium,Mid,High.
+Rottweiler,Large,Medium,Medium,Mid,Medium.
+Russell Terrier,Small,Low,High,Mid,High.
+Scottish Terrier,Small,Medium,Medium,Mid,Medium.
+Shiba Inu,Medium,Medium,Medium,Cold,Medium.
+Shih Tzu,Small,High,Medium,Mid,Medium.
+Weimaraner,Medium,Low,High,Hot,High.
+Welsh Terrier,Small,Medium,High,Mid,High.
+West Highland White Terrier,Small,High,Medium,Mid,High.
+Yorkshire Terrier,Small,High,Medium,Hot,High.
+Australian Cattle Dog,Medium,Medium,High,Hot,Medium.
+Pug,Small,Medium,Medium,Mid,High.
+Cavalier King Charles Spaniel,Small,Medium,Mid,Low,High.
+Siberian Husky,Large,Medium,High,Cold,Medium.
+American Eskimo Dog,Medium,Medium,High,Cold,High.
+Chow Chow,Medium,Medium,Medium,Cold,Low.
+German Shepherd,Large,Medium,Medium,Cold,High.
+Greater Swiss Mountain Dog,Large,Medium,High,Cold,Medium.
+Great Pyrenees,Medium,Medium,High,Cold,Low.
+Tibetan Terrier,Medium,Medium,High,Cold,Low.
+Border Collie,Medium,Medium,High,Hot,High.
+Whippet,Small,Low,Medium,Hot,Low.
+Australian Kelpie,Medium,Medium,High,Hot,High.
+Akbash,Large,Low,Low,Cold,Medium.
+Affenpinscher,Small,Medium,Medium,Mid,High.
+Akita,Medium,High,High,Cold,High.
+Alaskan Klee Kai,Large,Low,High,Cold,Medium.
+Alaskan Malamute,Large,Medium,High,Cold,Medium.
+American English Coonhound,Large,Low,High,Mid,Medium.
+American Foxhound,Medium,Low,High,Mid,Medium.
+American Hairless Terrier,Small,Low,Medium,Hot,Medium.
+Anatolian Shepherd Dog,Large,Medium,Medium,Mid,Low.
+Australian Terrier,Small,Low,High,Cold,High.
+Barbet,Medium,Low,Medium,Cold,High.
+Basenji,Small,Low,High,Hot,Low.
+Bichon Frise,Small,High,Medium,Mid,High.
+Border Terrier,Small,Low,Medium,Mid,High.
+Boxer,Large,Low,High,Mid,High.
+Bull Terrier,Small,Medium,High,Mid,Medium.
+Chinook,Large,Medium,High,Mid,High.
+Doberman Pinscher,Large,Low,High,Mid,High.
+Dutch Shepherd,Medium,Medium,High,Mid,Medium.
+English Setter,Large,Medium,High,Mid,High.
+Estrela Mountain Dog,Large,Medium,Low,Cold,Low.
+German Shorthaired Pointer,Medium,Medium,High,Mid,High.
+Harrier,Small,Low,High,Mid,High.
+Irish Setter,Medium,Medium,High,Mid,High.
+Jindo,Medium,Medium,High,Cold,Low.
+Brussels Griffon,Small,Medium,Medium,Cold,Medium.
+Japanese Spitz,Small,Medium,Medium,Cold,High.
+Vizsla,Medium,Low,High,Mid,High.
+Mountain Cur,Medium,Low,High,Mid,Low.
+Newfoundland,Large,Medium,Medium,Cold,High.
+Old English Sheepdog,Large,Medium,Medium,Cold,Low.
+Standard Poodle,Medium,High,Medium,Hot,High.
+Miniature Poodle,Small,High,Medium,Hot,High.
+Toy Poodle,Small,High,Medium,Hot,High.
+Samoyed,Medium,Medium,High,Cold,Medium.
+Shetland Sheepdog,Medium,Medium,Medium,Cold,Medium.
+Silky Terrier,Small,High,Medium,Mid,Medium.
+Standard Schnauzer,Small,Medium,Medium,Mid,Medium.
+Toy Fox Terrier,Small,Low,High,Mid,High.
